@@ -1,1 +1,9 @@
-
+{
+  "description": "Portfolio's Ali Briceño",
+  "owner": {
+    "username": "alienriquebm"
+  },
+  "record": {
+    "CNAME": "https://alienriquebm.github.io"
+  }
+}
